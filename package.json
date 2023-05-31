@@ -1,0 +1,11 @@
+{
+  "name": "final-test-automation-midtrans",
+  "version": "1.0.0",
+  "description": "automation final test eduwork",
+  "main": "index.js",
+  "author": "fachrydan",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.12.0"
+  }
+}
